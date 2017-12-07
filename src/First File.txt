@@ -1,0 +1,3 @@
+#Commit 1
+This is the text
+added during commit 1
